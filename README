@@ -1,1 +1,7 @@
-This assignment asked us to create a cellular automata, sometimes called the game of life (Conway) and is a bit of an baby version of machine learning, where the code reacts to itself. Feel free to experiment with different numbers to see different patterns. My favorites are 150, 182, and 60. Look for more rule options here: http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
+Cellular automata are mathametical models with simple instructions for creation and destruction. This particular one is inspired by Conway's Game of Life.
+
+The code reacts to a "rule", a number (in this case from 0-255) that tells it how to replicate two given characters. 
+
+How to play with this:
+- Many numbers will produce boring patterns, but some are Ugly-Christmas-Sweater-Lovely (my rule numbers are 150, 182, and 60). 
+- Look for more rule options here: http://mathworld.wolfram.com/ElementaryCellularAutomaton.html
